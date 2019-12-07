@@ -8,7 +8,7 @@ using OpenFileDialog = Microsoft.Win32.OpenFileDialog;
 using GNBWpfAppConverterTxtToXml.Converter;
 using GNBWpfAppConverterTxtToXml;
 
-namespace GBNEntityConvertApp
+namespace GNBWpfConvertApp
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

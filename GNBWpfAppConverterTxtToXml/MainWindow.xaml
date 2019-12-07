@@ -1,9 +1,9 @@
-﻿<Window x:Class="GBNEntityConvertApp.MainWindow"
+﻿<Window x:Class="GNBWpfConvertApp.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:GBNEntityConvertApp"
+        xmlns:local="clr-namespace:GNBWpfConvertApp"
         mc:Ignorable="d"
         Title="MainWindow" Height="500" Width="807">
     <Grid Height="500" Background="AntiqueWhite" Margin="0,0,3.333,-29.333">
